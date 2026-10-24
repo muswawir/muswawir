@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a computer programmer, working in LLM-Human interfaces. I have migrated off Github. See my latest work at (Deepreed Demo v1)[https://deepreed.com/demo-v1]. Deepreed in an AI-native word processor that allows a human to take full advantage of AI tools while retaining their writing voice and controlling every bit of the writing process.
+I'm a computer programmer, working in LLM-Human interfaces. I have migrated off Github. See my latest work at [Deepreed Demo v1](https://deepreed.com/demo-v1). Deepreed in an AI-native word processor that allows a human to take full advantage of AI tools while retaining their writing voice and controlling every bit of the writing process.
 
 ---
 <!--
